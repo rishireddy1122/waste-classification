@@ -145,7 +145,7 @@ This project demonstrates practical experience in:
 
 ## Author
 
-**Rishi Reddy**
+**Rishith Reddy**
 
 Bachelor of Technology in Computer Science and Engineering
 
